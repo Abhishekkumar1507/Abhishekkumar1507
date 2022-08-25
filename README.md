@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Abhishek kumar
+# Hi 👋, I’m Abhishek kumar.
+
+**I create dashboards 📊 and reports 📉 to deliver business actionable insights 🎯 from messy DATA🍜.**
+
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Machine Learning Models
