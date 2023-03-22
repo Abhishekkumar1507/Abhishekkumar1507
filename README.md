@@ -1,4 +1,4 @@
-# Hi 👋, there I’m Abhishek.
+# 👋 Hi there, I’m Abhishek.
 
 **I create dashboards 📊 and reports 📉 to deliver business actionable insights 🎯 from messy DATA🍜.**
 
