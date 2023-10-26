@@ -3,8 +3,8 @@
 **I create dashboards 📊 and reports 📉 to deliver business actionable insights 🎯 from messy DATA🍜.**
 
 - 👀 I’m interested in Data Analytics.
-- 🌱 I'm graduated from Madan Mohan Malaviya University of Technology in 2022.
-- 💞️ I’m currently learning Data Analysis and Machine Learning.
+- 🌱 I'm graduated from Madan Mohan Malaviya University of Technology Gorakhpur UP.
+- 💞️ I’m currently seeking opportunities in  Data Analysis and Machine Learning.
 - 📫 How to reach me palabhikumar@gmail.com or https://www.linkedin.com/in/abhishek-kumar-829545202
 
 <!---
